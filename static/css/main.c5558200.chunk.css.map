@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,WACE,aAAkB,CAClB,eAAiB,CACjB,iBAAkB,CAClB,cAAe,CAChB,OAGC,UAAW","file":"main.c5558200.chunk.css","sourcesContent":[".nameStyle {\n  color: yellowgreen;\n  font-weight: bold;\n  font-style: italic;\n  font-size: 20px;\n}\n\n.color {\n  color: blue;\n}\n"]}
